@@ -1,0 +1,88 @@
+{
+  "Products": [
+    {
+      "productGroup": "Microphone",
+      "productImg": "images/AT2020.jpeg",
+      "productId": "AT2020",
+      "productCost": "$79.00",
+      "productDescription": "The AT2020 is an affordable microphone offering versatile features. "
+    },
+    {
+      "productGroup": "Microphone",
+      "productImg": "images/neumann.jpeg",
+      "productId": "Neumann TLM 102",
+      "productCost": "$729.00",
+      "productDescription": "This is the worlds best Mic"
+    },
+    {
+      "productGroup": "AMP",
+      "productImg": "images/BossKatana.webp",
+      "productId": "Boss Katana 50 MKII",
+      "productCost": "$269.99",
+      "productDescription": "The BOSS Katana 50 MkII is the latest installation of Katana Series amplifiers."
+    },
+    {
+      "productGroup": "AMP",
+      "productImg": "images/GAMMA.webp",
+      "productId": "GAMMA G50 1x12 Guitar Combo Amplifier",
+      "productCost": "$199.99",
+      "productDescription": "GAMMA amps, with their premium True Blue High Headroom speakers and well-conceived all-analog design, provide superior sound quality, clarity and surprising performance volume in a simple-to-use package."
+    },
+    {
+      "productGroup": "Electric Guitar",
+      "productImg": "images/Jamstick.webp",
+      "productId": "Jamstik Studio MIDI Guitar",
+      "productCost": "$799.99",
+      "productDescription": "The Studio MIDI Guitar is a headless, 24 fret electric guitar with full MIDI capabilities. "
+    },
+    {
+      "productGroup": "Electric Guitar",
+      "productImg": "images/Ibanez.jpeg",
+      "productId": "Ibanez GIO Series GRGA120 - Jewel Blue",
+      "productCost": "$169.99",
+      "productDescription": "The Ibanez GRGA120 is a top-shelf bang-for-your-buck solidbody electric guitar."
+    },
+    {
+      "productGroup": "Acustic Guitar",
+      "productImg": "images/Fender.jpeg",
+      "productId": "Fender FA-135CE Concert Acoustic-Electric Guitar Natural",
+      "productCost": "$249.99",
+      "productDescription": "The Fender FA-135CE Concert acoustic-electric guitar is built on the concert-style platform for a sleek, modern design. "
+    },
+    {
+      "productGroup": "Acustic Guitar",
+      "productImg": "images/Taylor.webp",
+      "productId": "Taylor Big Baby Acoustic Guitar Natural",
+      "productCost": "$499.00",
+      "productDescription": "The Baby Taylor's scaled-up sibling, the Big Baby (15/16th-size), makes a sleek yet full-sounding travel companion with its svelte four-inch body depth, which is about a half-inch shallower than the depth of a standard Dreadnought. "
+    },
+    {
+      "productGroup": "Bass Guitar",
+      "productImg": "images/IbanezBass.webp",
+      "productId": "Ibanez GSRM20 Mikro Short-Scale Bass Guitar Metallic Purple",
+      "productCost": "$199.99",
+      "productDescription": "Having trouble fitting in? If it's because you're pierced and tattooed and attend a prepped out conservative school far from urban areas, we can't help you. If it's because you need a smaller bass for the tour bus or running scales in cramped quarters, we can. "
+    },
+    {
+      "productGroup": "Bass Guitar",
+      "productImg": "images/IbanezBass2.webp",
+      "productId": "Ibanez BTB747 7-String Electric Bass Guitar Low Gloss Natural",
+      "productCost": "$1,049.99",
+      "productDescription": "The ever-evolving Ibanez BTB series has always aimed to expand the players range of creative expression."
+    },
+    {
+      "productGroup": "Keyboard",
+      "productImg": "images/Donner.webp",
+      "productId": "Donner DEP-20 Beginner Digital Piano",
+      "productCost": "$521.99",
+      "productDescription": "The digital electric piano is constructed by 88 full-sized hammer action keys with adjustable touch response. This 88-key weighted keyboard allows to adjust your desired playing style."
+    },
+    {
+      "productGroup": "Keyboard",
+      "productImg": "images/Alesis.jpeg",
+      "productId": "Alesis Recital",
+      "productCost": "$299.00",
+      "productDescription": "An Electric Piano Thats Tailored to You - Feature-packed Electric keyboard with 88 premium full-sized semi weighted keys with adjustable touch response to suit your preferred playing style"
+    }
+  ]
+}

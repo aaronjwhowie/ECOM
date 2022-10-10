@@ -1,0 +1,137 @@
+@media screen and (max-width: 425px) {
+  /* General Code */
+  html {
+    max-width: 425px;
+  }
+  .display {
+    max-width: 425px;
+  }
+
+  /* Nav Bar */
+  .header {
+    display: grid;
+    grid-area: 1 / 14 / 1 / 1;
+    border-bottom: black solid 1px;
+  }
+
+  a {
+    text-decoration: none;
+    list-style: none;
+    color: #e2b4bd;
+  }
+
+  #ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: right;
+    align-items: stretch;
+    align-content: stretch;
+    padding: 10px;
+  }
+
+  .header-color {
+    color: rgb(255, 255, 255);
+  }
+
+  nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+    margin-right: 50px;
+  }
+
+  li {
+    text-decoration: none;
+    list-style: none;
+    padding: 10px;
+    font-size: 31px;
+    font-weight: 1000;
+  }
+
+  #ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: #e2b4bd;
+  }
+
+  .nv-l {
+    margin-left: 120px;
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    color: #e2b4bd;
+    font-family: cursive;
+  }
+
+  /* Products */
+  .pContainer {
+    display: grid;
+    grid-template-columns: repeat(1, 100%);
+    grid-template-rows: 1fr;
+    margin-left: 7px;
+    margin-bottom: 70px;
+    justify-items: center;
+    width: 93vw;
+    justify-content: center;
+  }
+  .imageContainer {
+    grid-area: 1 / 1 / 2 / 2;
+  }
+  .cContent {
+    grid-area: 2 / 1 / 2 / 3;
+    display: grid;
+    margin-left: 25px;
+  }
+  /* Product Container */
+  .pImages {
+    height: 25vh;
+    width: 74vw;
+    margin-top: 20px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-bottom: black solid 2px;
+  }
+
+  .pGroup {
+    display: grid;
+    font-size: 20px;
+    margin-top: 10px;
+    color: #e2b4bd;
+  }
+
+  .pName {
+    margin-top: 10px;
+  }
+
+  .pPricing {
+    margin-top: 0px;
+    margin-bottom: -2px;
+    font-size: 23px;
+  }
+
+  .pDisc {
+    font-size: 20px;
+  }
+
+  .pButton {
+    padding: 20px;
+    font-size: 17px;
+    transition: transform 0.2s;
+    color: white;
+    background-color: #e2b4bd;
+    width: 178px;
+    height: 17px;
+    justify-content: center;
+    display: grid;
+    justify-items: center;
+  }
+  .pButton:hover {
+    background-color: #e2b4bdb5;
+    color: white;
+  }
+}
+/* --------------- */

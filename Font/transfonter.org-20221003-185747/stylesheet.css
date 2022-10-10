@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Kliklims';
+    src: url('KliklimsRegular.woff2') format('woff2'),
+        url('KliklimsRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
